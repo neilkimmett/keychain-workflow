@@ -4,7 +4,7 @@ Sometimes Safari doesn't recognise a password box to put a password in. To save 
 
 ![Demonstration of use](https://github.com/neilkimmett/keychain-workflow/raw/master/screenshot.png)
 
-####[Download](https://github.com/neilkimmett/keychain-workflow/raw/master/Find password in Keychain.alfredworkflow)
+###[Download](https://github.com/neilkimmett/keychain-workflow/raw/master/Find password in Keychain.alfredworkflow)
 
 ## TODO
 - Any sort of error handling
